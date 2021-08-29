@@ -1,0 +1,30 @@
+# PyBer Analysis Challenge 
+## Project Overview
+
+Explore data for PyBer using Python, Pandas, and Matploblib from a set timeframe to improve access to the ride-sharing services and well as determine affordability for underserved neighborhoods. 
+
+1.
+2.
+3. 
+
+In addition to Original Module tasks:
+1. Determine the mean, median, and mode for the total number of rides for each city type, the average fairs for each city type, and the total number of drivers for each city type.
+2. Create box-and-whisker plots to visualize the number of rides for each city type, the fares for each city type, and the number of drivers for each city type. 
+3. Create a pie chart to viualize the percent of total fares, the percnt of total rides, and the percent of total drivers.
+
+## Purpose of Analysis
+
+## Resources
+* Data source: 
+* Software: Python 3.7.6, Anaconda, Conda, Jupyter-Notebook, Pandas, Numpy, GitBash 
+
+## Results
+
+* Affects on District Summary
+
+* Affects on School Summary
+
+
+
+## Summary
+
